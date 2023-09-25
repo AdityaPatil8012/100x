@@ -1,2 +1,2 @@
 # 100x
-clone of the twitter(X).
+https://adityapatil8012.github.io/100x/src/Assign1.html
